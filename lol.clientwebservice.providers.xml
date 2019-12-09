@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<providers>
+<provider name="League of Legends">
+    <assembly type="Zipper.ZervicePoint.ProvisioningSystem.PowerShellProvider.PowerShellEngine" assemblyFile="C:\Program Files\Zipper\ZervicePoint\Web\ClientWebService\Bin\Zipper.ZervicePoint.ProvisioningSystem.PowerShellProvider.dll"/>
+    <configuration>
+    <add key="scriptpath" value="C:\Plugin\LoL\Data sources\" />
+    <add key="APIKey" value="RGAPI-d7473abf-0b59-458c-9cd2-c13371cc49e3" />
+    </configuration>
+</provider>
+</providers>
